@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.pic{
+  background-repeat: no-repeat ;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  margin-left: 350px;
+}
+
+
+
+.button{
+  position: absolute;
+  top: 300px;
+  left: 760px;
+  margin-left: 300px;
+}
+
+
+button{
+  border: none;
+  padding: 50px 50px;
+  border-radius: 70%;
+  transition: 0.8s;
+  color: black;
+  display: inline-block;
+  
+  
+}
+.btn:hover{
+  color: #000000;
+  background-color: blue;
+  border: 5px solid #070707fd;
+  
+}
+
+
+
